@@ -44,10 +44,10 @@ font-size: 35px;
 .caption{
 	font-size: 14px;
 }
-a{
+.und{
 	color: #1A50BC;;
 }
-a:hover{
+.und:hover{
 	color: black;
 text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 background-color: #4169e1;
